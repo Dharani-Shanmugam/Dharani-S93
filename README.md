@@ -7,7 +7,7 @@ Passionate about AI, Data Science, and Software Development. I love working on p
 ---  
 ## 🌟 About Me  
 
-- 🎓 **B. Tech in Artificial Intelligence & Data Science** at **Dr. MCET, Pollachi** (*CGPA: 9.437*)  
+- 🎓 **B. Tech in Artificial Intelligence & Data Science** at **Dr. MCET, Pollachi** (*CGPA: 9.37*)  
 - 💻 **Software Developer** skilled in *Java, HTML, CSS*  
 - 🤖 **AI Enthusiast** exploring *Machine Learning, Data Science*  
 - 🏆 **Problem Solver** with expertise in *Data Structures, Algorithms, and Competitive Coding*  
