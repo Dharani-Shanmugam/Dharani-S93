@@ -11,8 +11,6 @@
   <a href="https://leetcode.com/u/Dharani_Shanmugam/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 </p>
 
-<p align="center"><i>She/Her 💜</i></p>
-
 ---
 
 ## 🧬 About Me
